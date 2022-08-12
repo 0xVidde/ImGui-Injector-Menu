@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Loader-Injector-Menu", "Loader-Injector-Menu\Loader-Injector-Menu.vcxproj", "{8D7E08B9-6C0D-4D5F-9066-3EFDA345E31B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D7E08B9-6C0D-4D5F-9066-3EFDA345E31B}.Debug|x64.ActiveCfg = Debug|x64
+		{8D7E08B9-6C0D-4D5F-9066-3EFDA345E31B}.Debug|x64.Build.0 = Debug|x64
+		{8D7E08B9-6C0D-4D5F-9066-3EFDA345E31B}.Debug|x86.ActiveCfg = Debug|Win32
+		{8D7E08B9-6C0D-4D5F-9066-3EFDA345E31B}.Debug|x86.Build.0 = Debug|Win32
+		{8D7E08B9-6C0D-4D5F-9066-3EFDA345E31B}.Release|x64.ActiveCfg = Release|x64
+		{8D7E08B9-6C0D-4D5F-9066-3EFDA345E31B}.Release|x64.Build.0 = Release|x64
+		{8D7E08B9-6C0D-4D5F-9066-3EFDA345E31B}.Release|x86.ActiveCfg = Release|Win32
+		{8D7E08B9-6C0D-4D5F-9066-3EFDA345E31B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83B0F5FA-FE81-4AB6-A41C-3F308BC6BB77}
+	EndGlobalSection
+EndGlobal
